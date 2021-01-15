@@ -1,0 +1,13 @@
+.penguins-card{
+    border: 0;
+}
+.penguins-card-footer{
+    border: 0;
+    background-color:white;
+}
+.carousel-item{
+    background-color: rgb(248, 240, 224);
+}
+.pick-up{
+    margin-top:40px;
+}
